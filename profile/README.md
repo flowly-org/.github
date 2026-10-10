@@ -37,7 +37,7 @@ in the app, on Telegram, or from ChatGPT and Claude.
 
 ## Repositories
 
-| | |
+| Repository | What it is |
 |---|---|
 | [flowly-backend](https://github.com/flowly-org/flowly-backend) | The API and its worker (Django, Postgres), plus the self-hosting files |
 | [flowly-frontend](https://github.com/flowly-org/flowly-frontend) | The web app and the Android/iOS apps (Angular, Capacitor) |
