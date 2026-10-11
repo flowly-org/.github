@@ -33,7 +33,7 @@ in the app, on Telegram, or from ChatGPT and Claude.
 - **Teams:** roles, invitations, agile rituals, Telegram and Slack bots, single sign-on (OIDC).
 - **Integrations:** GitHub, Slack, Discord, webhooks, email-in, wikis, Donetick, Trello and Asana import, an MCP server.
 - **Time & invoices:** timers, billing rates, invoices with national e-invoice formats.
-- **Everywhere:** web, Android, macOS, Windows, Linux, in six languages. The apps connect to any Flowly server, several at once.
+- **Everywhere:** web, Android, macOS, Windows, Linux and a Chrome extension, in six languages. The apps connect to any Flowly server, several at once.
 
 ## Repositories
 
@@ -42,6 +42,7 @@ in the app, on Telegram, or from ChatGPT and Claude.
 | [flowly-backend](https://github.com/flowly-org/flowly-backend) | The API and its worker (Django, Postgres), plus the self-hosting files |
 | [flowly-frontend](https://github.com/flowly-org/flowly-frontend) | The web app and the Android/iOS apps (Angular, Capacitor) |
 | [flowly-desktop](https://github.com/flowly-org/flowly-desktop) | The tray time tracker for macOS, Windows and Linux (Tauri) |
+| [flowly-chrome](https://github.com/flowly-org/flowly-chrome) | Chrome extension: AI finds the to-dos in any page and adds them to your Flowly |
 | [flowly-prompt](https://github.com/flowly-org/flowly-prompt) | `PROMPT.md`: the specification that rebuilds Flowly with a coding agent |
 | [flowly-releases](https://github.com/flowly-org/flowly-releases) | App downloads |
 | [flowly-org.github.io](https://github.com/flowly-org/flowly-org.github.io) | The website, [flowly.net](https://flowly.net) |
